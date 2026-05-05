@@ -1,4 +1,8 @@
-# Traffic Flow Simulation - Final Project
+# Smart Traffic Light System
+
+This is a team project developed as part of a Computer Vision course.
+
+My contribution included implementing traffic light control algorithms and system logic.
 
 ## Usage
 
